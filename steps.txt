@@ -1,0 +1,13 @@
+Assignment 5: Update and Commit steps
+
+- git clone https://github.com/AngryVetGonzo/git_demo.git
+- cd git_demo
+- git status
+- modified file
+- git add .
+- git status
+- git commit -m "changes to git_demo"
+- git fetch origin master
+- git status
+- git touch new text file
+- upload
